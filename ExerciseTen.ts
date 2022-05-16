@@ -1,5 +1,5 @@
 /*
-This made no sense
+This did not make any sense
 Intro:
 
     We have asynchronous functions now, advanced technology.
